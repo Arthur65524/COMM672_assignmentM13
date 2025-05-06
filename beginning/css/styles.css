@@ -214,7 +214,6 @@ body.home {
     padding-bottom: 56.25%; /* 16:9 aspect ratio */
     height: 0;
 }
-
 .video-container iframe {
     position: absolute;
     top: 0;
@@ -357,20 +356,20 @@ ul.paw-list li::before {
     width: 100%;
     max-width: 600px;
     margin: 0 auto;
-  }
-  .accordion-item {
+}
+.accordion-item {
     border: 1px solid #ccc;
     margin: 5px 0;
-  }
-  .accordion-header {
-    padding: 10px;
-    cursor: pointer;
-  }
-  .accordion-content {
-    display: none; /* Hidden by default */
-    padding: 15px;
-    background-color: #f9f9f9;
-  }
+}
+.accordion-header {
+padding: 10px;
+cursor: pointer;
+}
+.accordion-content {
+display: none; /* Hidden by default */
+padding: 15px;
+background-color: #f9f9f9;
+}
 /**Contact**/
 .contact-container {
     display: flex;
@@ -384,7 +383,6 @@ ul.paw-list li::before {
     flex-direction: column;
     gap: 20px;
 }
-
 .contact-container .form-container {
     width: 70%;
     max-width: 600px;
